@@ -1,6 +1,6 @@
-# Analizador Léxico con FLEX
+Analizador Léxico con FLEX
 
-## Descripción
+ Descripción
 
 Este proyecto implementa un analizador léxico utilizando FLEX.
 
@@ -12,21 +12,21 @@ El analizador reconoce:
 * Operadores
 * Delimitadores
 
-## Tecnologías utilizadas
+ Tecnologías utilizadas
 
 * FLEX (WinFlexBison)
 * Lenguaje C
 * Java Swing
 * Git y GitHub
 
-## Archivos principales
+ Archivos principales
 
 * lexer.l → Reglas léxicas
 * lex.yy.c → Código generado por FLEX
 * lexer.exe → Ejecutable del analizador
 * AnalizadorGUI.java → Interfaz gráfica
 
-## Ejemplo
+ Ejemplo
 
 Entrada:
 
@@ -39,6 +39,6 @@ IDENTIFICADOR: x
 OPERADOR: =
 NUMERO: 10
 
-## Autor
+ Autor
 
 Antonia Reina Polanco Díaz
